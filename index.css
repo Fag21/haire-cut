@@ -1,0 +1,182 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.listhome ul {
+    position: absolute;
+    display: inline;
+    top: 0;
+    left: 0;
+    margin-left: 500px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 20px;
+}
+
+.listhome li {
+    padding: 0 20px;
+    margin: 0 10px;
+    font-style: italic;
+}
+
+.logo {
+    margin-left: 200px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.home2 {
+    width: 500px;
+    position: relative;
+    margin: 200px 100px 100px 100px;
+    text-transform: capitalize;
+}
+
+#image {
+    position: absolute;
+    margin-left: 600px;
+    margin-right: 150px;
+    top: 100px;
+    right: 0;
+    display: inline;
+    height: 300px;
+    width: 200px;
+}
+
+#image11 {
+    position: absolute;
+    margin-right: 300px;
+    top: 250px;
+    right: 0;
+    display: inline;
+    height: 300px;
+    width: 200px;
+}
+
+.com {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.pass {
+    padding: 20px 0 20px 0;
+    width: 200px;
+}
+
+.but button {
+    background: rgb(67, 28, 28);
+    color: aliceblue;
+    border-radius: 0%;
+}
+
+#image12 {
+    position: absolute;
+    margin-right: 100px;
+    top: 700px;
+    right: 0;
+    display: inline;
+    height: 350px;
+    width: 350px;
+}
+
+.home3 {
+    width: 500px;
+    margin: 300px 100px 100px 100px;
+    text-transform: capitalize;
+}
+
+.pass {
+    padding: 20px 0 20px 0;
+    width: 400px;
+}
+
+.the {
+    font-size: 30px;
+    color: rgb(186, 184, 184);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.choose {
+    padding: 200px 200px 0 200px;
+    display: flex;
+    margin: 250px 250px 0 250px;
+}
+
+.follow {
+    margin-right: 30px;
+    background-color: rgb(66, 24, 24);
+    color: aliceblue;
+    text-transform: uppercase;
+    height: 40px;
+    padding: 10px 5px 0px 5px;
+}
+
+#one {
+    padding-left: 20px;
+    text-transform: uppercase;
+    padding-top: 7px;
+}
+
+#image14 {
+    width: 500px;
+    margin: 300px 100px 100px 100px;
+    height: 350px;
+    width: 350px;
+}
+
+.home4 {
+    position: absolute;
+    margin-right: 100px;
+    top: 1800px;
+    right: 0;
+    display: inline;
+    text-transform: capitalize;
+}
+
+.cat {
+    margin-top: 100px;
+    margin-left: 500px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.shop {
+    font-size: 3rem;
+    color: rgb(201, 196, 196);
+    font-weight: bold;
+}
+
+.cate {
+    font-size: 3rem;
+    font-weight: bold;
+    padding-left: 25px;
+}
+
+.img-choose {
+    position: relative;
+    display: flex;
+}
+
+.one {
+    background-color: #Fff;
+    color: aliceblue;
+    width: 500px;
+    height: 500px;
+    margin: 50px 50px;
+    position: relative;
+    border: solid rgb(186, 180, 180);
+}
+
+.one img {
+    width: 100%;
+    height: 70%;
+}
+
+article {
+    color: black;
+    padding: 10px 60px;
+}
